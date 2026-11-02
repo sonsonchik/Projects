@@ -1,8 +1,0 @@
-[
-    {"name": "Программист C#", "salary_from": 100000},
-    {"name": "программист Python", "salary_from": 120000},
-    {"name": "Программист Java", "salary_from": 150000},
-    {"name": "Менеджер", "salary_from": 80000},
-    {"name": "ПРОГРАММИСТ C++", "salary_from": 130000},
-    {"name": "Аналитик", "salary_from": 90000}
-]
